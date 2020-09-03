@@ -1,0 +1,13 @@
+{
+  "name": "theme1",
+  "title": "Dark Purple",
+  "displayName": "Dark Purple",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A great dark theme with purple.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
